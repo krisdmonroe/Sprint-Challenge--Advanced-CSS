@@ -26,6 +26,10 @@ In meeting the minimum viable product (MVP) specifications listed below, your we
 
 [Click here to review the mobile design](design-files/home-mobile.png)
 
+
+
+
+
 ## Self-Study Questions
 
 Demonstrate your understanding of this week's concepts by answering the following free-form questions.
@@ -33,14 +37,24 @@ Demonstrate your understanding of this week's concepts by answering the followin
 Edit this document to include your answers after each question. Make sure to leave a blank line above and below your answer so it is clear and easy to read by your project manager
 
 1. What is the difference between an adaptive website and a fully responsive website?
+Adaptive changed to fit but full responsive is specifiacly designed for a certain website size.
 
-2. Describe what it means to be mobile first vs desktop first.
+2. Describe what it means to be mobile first vs desktop first?
+Mobile first you have to scall everything up and use min with but desktop first you scale down and use max width.
 
 3. What does `font-size: 62.5%` in the `html` tag do for us when using `rem` units?
+Allows 1 rem to equal 10px easier to know what size font your using.
 
 4. How would you describe preprocessing to someone new to CSS?
+Allows you to use a new unique syntax of the preprocessor program you chose.
 
 5. What is your favorite concept in preprocessing? What is the concept that gives you the most trouble?
+Mixins is my favorit concept, but parametric mixins seem a little hard for me.
+
+
+
+
+
 
 You are expected to be able to answer all these questions. Your responses contribute to your Sprint Challenge grade. Skipping this section *will* prevent you from passing this challenge.
 
